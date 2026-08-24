@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+*.pyc
+portfolio_monitor/portfolio.db
+portfolio_monitor/snapshots/*.json
+portfolio_monitor/logs/
+.DS_Store

@@ -1,0 +1,35 @@
+[
+  {
+    "asset_type": "option",
+    "ticker": "AAPL",
+    "option_type": "call",
+    "strike": 230,
+    "expiry": "2026-10-16",
+    "entry_price": 8.50,
+    "contracts": 2,
+    "entry_date": "2026-08-01",
+    "target_price": 15.00,
+    "stop_price": 4.00
+  },
+  {
+    "asset_type": "option",
+    "ticker": "SPY",
+    "option_type": "put",
+    "strike": 620,
+    "expiry": "2026-09-18",
+    "entry_price": 6.20,
+    "contracts": 3,
+    "entry_date": "2026-08-10",
+    "stop_price": 3.00
+  },
+  {
+    "id": "MSFT_SHARES",
+    "asset_type": "shares",
+    "ticker": "MSFT",
+    "entry_price": 410.25,
+    "contracts": 100,
+    "entry_date": "2026-07-15",
+    "target_price": 460.00,
+    "stop_price": 380.00
+  }
+]

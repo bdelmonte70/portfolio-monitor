@@ -5,3 +5,6 @@ portfolio_monitor/portfolio.db
 portfolio_monitor/snapshots/*.json
 portfolio_monitor/logs/
 .DS_Store
+
+# Local real portfolio holdings; keep out of git history
+portfolio_monitor/positions.json
